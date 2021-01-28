@@ -1,0 +1,54 @@
+body{
+background: #c19277 url(https://st.depositphotos.com/2401585/4815/i/950/depositphotos_48153433-stock-photo-marble-texture-stone-background.jpg);
+background-size:100%;
+  background-attachment: fixed;
+}
+H1{
+
+  font-style: italic;
+  font-size: 80PX;
+}
+.centered {
+  position: static;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+#footer {
+   clear: both;
+   padding: 20px;
+   background: #c19277;
+  }
+
+H2,H3,H5{
+  font-style: normal;
+  font-family:"Monaco", monospace;
+  font-size: 44px;
+}
+H4{
+  font-style: normal;
+  font-family:"Monaco", monospace;
+  font-size: 55px;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: grey;
+  height: 5px;
+  width: 30%;
+}
+marquee{
+  marquee-speed: 40;
+  font-size: 20px;
+}
+.stt{
+  font-style: italic;
+  font-size: 20px;
+}
+li a {
+  color: #666;
+}
+.tt{
+  font-size: 100px;
+}
